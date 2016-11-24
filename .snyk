@@ -1,0 +1,6 @@
+version: v1.5.0
+ignore: {}
+patch:
+  'npm:qs:20140806':
+    - jpush-sdk > request > qs:
+        patched: '2016-11-24T11:49:56.396Z'
